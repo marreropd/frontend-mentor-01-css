@@ -298,3 +298,9 @@ color: var(--soft-red);
         flex-direction: row;
     }
 }
+
+.attribution{
+    margin-top: 1rem;
+    text-align: center;
+    font-size: small;
+}
