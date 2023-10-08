@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage
 
-![Live]((https://frontend-mentor-01-css.vercel.app/))
+[Live]((https://frontend-mentor-01-css.vercel.app/))
 
 ## Welcome! 👋
 
