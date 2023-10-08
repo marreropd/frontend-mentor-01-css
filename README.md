@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage
 
-![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
+![Live]((https://frontend-mentor-01-css.vercel.app/))
 
 ## Welcome! 👋
 
